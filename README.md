@@ -37,3 +37,5 @@ A very interesting paper in my opinion, for which many avenues for further analy
 - CourseworkCode.ipynb provides all code used in the making of this report
 
 Please note: Due to processing issues, figures appearing in the report look fairly blurry particularly in terms of figure captions. I am in the process of repairing this issue!
+
+----

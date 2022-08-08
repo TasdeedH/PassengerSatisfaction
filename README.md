@@ -2,7 +2,7 @@
 
 ----
 
-A comprehensive academic report produced as a submission for the Principles of Data Science module as part of my MSc Data Science Course at City, University of London.
+A comprehensive academic report produced pertaining to airline passenger satisfaction.
 
 Programming Languages: Python (Numpy, Pandas, Matplotlib, Seaborn and Scikit-Learn)
 
